@@ -20,6 +20,9 @@ To run the chatbot application, ensure you have Python (version 3.6 or higher) a
 2. **Install Dependencies**:
 ```pip
  install flask transformers
+3. **Usage**:
+Run the Chatbot Application: Execute the following command to start the chatbot:
+
 
    
 
