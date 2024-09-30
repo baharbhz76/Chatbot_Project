@@ -17,4 +17,6 @@ To run the chatbot application, ensure you have Python (version 3.6 or higher) a
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git cd yourrepository
+2. Install Dependencies
+   
 
