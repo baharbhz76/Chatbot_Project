@@ -21,5 +21,22 @@ This notebook includes advanced enhancements to the chatbot, leveraging the `Ope
 - **Memory Management**: Improved handling of conversation history to make interactions more dynamic.
 
 ---
+## **Requirements**
+
+To run these notebooks, you'll need the following libraries installed:
+
+```bash
+pip install flask transformers datasets tensorflow rouge-score
+---
+
+## **Installation**
+
+To run the chatbot application, ensure you have Python (version 3.6 or higher) and the required libraries installed.
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/yourusername/yourrepository.git
+cd yourrepository
+
 
 
