@@ -32,7 +32,7 @@ pip install flask transformers datasets tensorflow rouge-score
 
 To run the chatbot application, ensure you have Python (version 3.6 or higher) and the required libraries installed.
 
-### 1. **Clone the Repository**
+###  **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
