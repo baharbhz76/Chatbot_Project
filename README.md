@@ -27,8 +27,7 @@ To run these notebooks, you'll need the following libraries installed:
 
 ```bash
 pip install flask transformers datasets tensorflow rouge-score
-
-
+```
 ## **Installation**
 
 To run the chatbot application, ensure you have Python (version 3.6 or higher) and the required libraries installed.
@@ -37,7 +36,7 @@ To run the chatbot application, ensure you have Python (version 3.6 or higher) a
 ```bash
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
-
+```
 
 
 
